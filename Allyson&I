@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link type="text/css" rel="stylesheet" href="stylesheet.css" />
+		<title>My Photo Page</title>
+	</head>
+	<body>
+	    <table>
+	        <thead>
+	            <th colspan="3">    
+	                <tr>
+	                    <td>
+	                        <a href="https://www.instagram.com/allysoncarlton/">
+	                        <img src="https://www.instagram.com/p/_fbag4kNI42KLpkgOJqMjEFdcs2o2fVKXneCE0/?taken-by=walt_wawra"></img></a>
+	                    </td>
+	                        <td>
+	                            <a href="https://www.instagram.com/allysoncarlton/">
+	                            <img src="https://www.instagram.com/p/_pyhMBENHobgDZd0YUHdP-YA7exQCf2R3UcYc0/?taken-by=walt_wawra"></img></a>
+	                 </td>
+	                    <td>
+	                        <a href="https://www.instagram.com/allysoncarlton/">
+	                        <img src="https://www.instagram.com/p/BCDfbQyENNtRZoqeCDXJLBqdxyzujzl3CFTgJY0/?taken-by=walt_wawra"></img></a>
+	              </td>
+	                </tr>
+	                <tr>
+	                    <td>
+	                        <a href="https://www.instagram.com/allysoncarlton/">
+	                        <img src="https://www.instagram.com/p/BFKaTDgkNKtQ2TFs8fY3f1i9-6f0fHhrR_TyzE0/?taken-by=walt_wawra"></img></a>
+	                 </td>
+            	        <td>
+            	            <a href="https://www.instagram.com/allysoncarlton/">
+            	            <img src="https://www.instagram.com/p/BQymFRhDY8H68C67C7YC4KhEHRJQ4lzygvYQ2Y0/?taken-by=walt_wawra"></img></a>
+            	     </td>
+	                    <td>
+	                        <a href="https://www.instagram.com/allysoncarlton/">
+	                        <img src="https://www.instagram.com/p/BSNDhlcDCTD8NCG240AX8SDJB1o2drbJ4hCgKE0/?taken-by=walt_wawra"></img></a>
+	              </td>
+	                </tr>
+	                <tr>
+            	        <td>
+            	            <a href="https://www.instagram.com/allysoncarlton/">
+            	            <img src="https://www.instagram.com/p/BSRc449DOw8ljotDzbTcYJ-WgThder-ZiR02HY0/?taken-by=walt_wawra"></img></a>
+            	     </td>
+            	        <td>
+            	            <a href="https://www.instagram.com/allysoncarlton/">
+            	            <img src="https://www.instagram.com/p/BSW7OkJjSxRmUbt65jP3h8iaBRhHQV6a1YS3Jw0/?taken-by=walt_wawra"></img></a>
+            	    </td>
+            	        <td>
+            	            <a href="https://www.instagram.com/allysoncarlton/">
+            	            <img src="https://www.instagram.com/p/BSYTTUAjhGYZRFXBuiRBHvCwhVYCgPbgjw50ME0/?taken-by=walt_wawra"></img></a>
+            	  </td>
+	                </tr>
+	            </th>
+	        </thead>
+	    </table>
+	</body>
+</html>
